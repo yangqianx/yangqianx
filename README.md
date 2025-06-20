@@ -5,7 +5,7 @@ Hello, My name is Yang Qian.
 Welcome to my portfolio, Where I showcases my academic and personal projects in data analysis and visualization.
 
 ### Tools 
-Language: SQL, Python, R
+Language: SQL, Python, R  
 Data visualization: Tableau, Power BI, Qilk
 
 ### Contact Me
