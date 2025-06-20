@@ -1,4 +1,4 @@
-#### About Me
+### About Me
 Hello, My name is Yang Qian. A data analyst with expertise in data analysis and visualization.
 
 #### Project Portfolio
